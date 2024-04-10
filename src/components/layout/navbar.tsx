@@ -5,7 +5,7 @@ import { PiPhoneCallLight } from 'react-icons/pi'
 
 export const Navbar = () => {
   return (
-    <nav className=" py-[11px] px-[clamp(3.1rem,8.375vw,7.4rem)] flex justify-between bg-purple text-white">
+    <nav className=" py-[11px] px-[clamp(3.1rem,8.375vw,7.4rem)] flex justify-between bg-[#4B00B2] text-white">
     <section className=" flex gap-[clamp(0.9rem,2vw,1.8rem)] ">
       <div className=" flex  gap-[10px] items-center ">
         <GrLocation color="#DAD4FF" size={20} />
